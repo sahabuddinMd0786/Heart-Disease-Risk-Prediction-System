@@ -1,8 +1,8 @@
-# ❤️ CardioTech AI - Heart Disease Prediction System
+# ❤️ MdTech AI - Heart Disease Prediction System
 
 #  Project Overview
 
-CardioTech AI is a Machine Learning-powered web application that predicts the risk of heart disease based on a patient's medical information. The application uses a trained K-Nearest Neighbors (KNN) model and provides real-time risk assessment along with personalized health recommendations.
+MdTech AI is a Machine Learning-powered web application that predicts the risk of heart disease based on a patient's medical information. The application uses a trained K-Nearest Neighbors (KNN) model and provides real-time risk assessment along with personalized health recommendations.
 
 The project is built using Python, Streamlit, Scikit-learn, Pandas, and Joblib, providing an interactive and user-friendly healthcare dashboard.
 
