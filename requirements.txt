@@ -3,5 +3,3 @@ pandas
 numpy
 scikit-learn
 joblib
-
-# For run :streamlit run app.py
